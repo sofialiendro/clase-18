@@ -17,8 +17,8 @@ const claseRojo = document.querySelector(".rojo")
 claseRojo.classList.add("rosa")
 console.log(claseRojo)
 
-const claseRosa = document.querySelector(".rosa")
-console.log(claseRosa.classList.toggle("rosa"))
+const claseAzul = document.querySelector(".azul")
+console.log(claseAzul.classList.toggle("azul"))
 
 const claseAmarillo = document.querySelector(".amarillo")
 console.log(claseAmarillo.classList.contains(".rojo"))
